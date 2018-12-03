@@ -1,0 +1,16 @@
+[
+{
+  "modid": "imn",
+  "name": "InsertModName",
+  "description": "First Mod",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ndrew112233"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
