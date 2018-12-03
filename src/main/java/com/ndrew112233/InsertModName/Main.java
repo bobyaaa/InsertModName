@@ -1,5 +1,6 @@
 package com.ndrew112233.InsertModName;
 
+import com.ndrew112233.InsertModName.init.ModRecipes;
 import com.ndrew112233.InsertModName.proxy.CommonProxy;
 import com.ndrew112233.InsertModName.util.Reference;
 
@@ -29,7 +30,7 @@ public class Main {
 	@EventHandler
 	public static void init(FMLInitializationEvent event) 
 	{
-		
+		ModRecipes.init(); 
 	}
 	
 	@EventHandler
